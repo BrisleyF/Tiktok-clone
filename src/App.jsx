@@ -1,5 +1,6 @@
-import { useState } from 'react'
-import './App.css'
+import { useState } from 'react';
+import './App.css';
+import FeedVideos from './components/FeedVideos/index.jsx';
 
 function App() {
   const [count, setCount] = useState(0)
@@ -8,7 +9,7 @@ function App() {
     <>
       <div className='App'>
         <main>
-          Tiktok clone
+          <FeedVideos/>
         </main>
       </div>
       
