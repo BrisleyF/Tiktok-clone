@@ -16,6 +16,14 @@
   font-weight: 700;
 }
 
+html {
+  box-sizing: border-box;
+}
+
+*, *:before, :after {
+  box-sizing: inherit;
+}
+
 :root {
   font-family: 'Proxima Nova', Arial, Tahoma, PingFangSC, sans-serif;;
   line-height: 1.5;
