@@ -10,7 +10,8 @@ const VIDEOS = [
     shere: 234,
     comments: 333,
     songTitle: "sonido original - erick meonomyrie",
-    src: "../public/video.mp4"
+    src: "../public/video.mp4",
+    albumImage: "../public/album1.jpeg"
   },
   {
     id: 2,
@@ -20,7 +21,8 @@ const VIDEOS = [
     shere: 284,
     comments: 456,
     songTitle: "sonido original - abctimeus",
-    src: "../public/video(2).mp4"
+    src: "../public/video(2).mp4",
+    albumImage: "../public/album2.jpeg"
   },
   {
     id: 3,
@@ -30,7 +32,8 @@ const VIDEOS = [
     shere: 840,
     comments: 1090,
     songTitle: "sonido original - minabarrio",
-    src: "../public/video(3).mp4"
+    src: "../public/video(3).mp4",
+    albumImage: "../public/album1.jpeg"
   },
   {
     id: 4,
@@ -40,7 +43,8 @@ const VIDEOS = [
     shere: 467,
     comments: 656,
     songTitle: "sonido original - mariangimal",
-    src: "../public/video(4).mp4"
+    src: "../public/video(4).mp4",
+    albumImage: "../public/album2.jpeg"
   },
 ]
 
